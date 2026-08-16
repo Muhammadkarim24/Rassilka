@@ -1,0 +1,1 @@
+sponsors = ['usa_halalfood']
